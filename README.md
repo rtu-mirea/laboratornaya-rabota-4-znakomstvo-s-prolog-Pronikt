@@ -10,7 +10,7 @@
 
 [can_buy.pro](https://github.com/rtu-mirea/laboratornaya-rabota-4-znakomstvo-s-prolog-Pronikt/blob/master/sourse/can_buy.pro)
 
-[can_buy_likes.pro](https://github.com/rtu-mirea/laboratornaya-rabota-4-znakomstvo-s-prolog-Pronikt/blob/master/sourse/can_buy_likes.pro)
+[likes.pro](https://github.com/rtu-mirea/laboratornaya-rabota-4-znakomstvo-s-prolog-Pronikt/blob/master/sourse/can_buy_likes.pro)
 
 3) Составьте собственную программу, состоящую из фактов и правил.
 
